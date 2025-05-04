@@ -7,6 +7,7 @@
     ripgrep
     rm-improved
     bat
+    fzf
   ];
   env = {};
   idx = {
